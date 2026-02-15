@@ -2,6 +2,10 @@ float sumar (float a, float b) {
 	return a + b;
 }
 
-float ressta (float a, float b) {
+float resstar (float a, float b) {
 	return a - b;
+}
+
+float multiplicar (float a, float b) {
+	return a * b;
 }
